@@ -11,4 +11,4 @@ https://github.com/user-attachments/assets/4fe94247-eff0-4341-bdc6-ecf4ca672a7e
 
 IMPORTANT ⚠️
 
-When unpacking the zip file, do not remove the exe from the folder, so as not to lose the key file where your current encryption key is stored!
+When unpacking the zip file, do not remove the exe from the folder, so as not to lose the .key file where your current encryption key is stored!
